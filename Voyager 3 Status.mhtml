@@ -1,0 +1,66 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///home/chronos/u-3480b202a0506bfb918160885802c5d34ce05aaa/MyFiles/Downloads/voyager3_status_adjusted_MET.html
+Subject: Voyager 3 Status
+Date: Sat, 3 May 2025 00:31:39 -0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--QarTTwpKaQX8UD9MUZn78yBPaz3VbFfUOA0AyEvixc----"
+
+
+------MultipartBoundary--QarTTwpKaQX8UD9MUZn78yBPaz3VbFfUOA0AyEvixc----
+Content-Type: text/html
+Content-ID: <frame-28A6AFC8831D67CEDAAFD54AD52927D5@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///home/chronos/u-3480b202a0506bfb918160885802c5d34ce05aaa/MyFiles/Downloads/voyager3_status_adjusted_MET.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-61d76b15-80a4-4925-b5a7-37daa344d77e@mhtml.blink" />
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Voyager 3 Status</title>
+ =20
+</head>
+<body>
+  <h2 style=3D"text-align:center">Voyager 3</h2>
+  <table>
+    <tbody><tr><td class=3D"label">Launch Date</td><td>Sun, 20 July 2123 21=
+:01:58 UTC</td></tr>
+    <tr><td class=3D"label">Mission Elapsed Time</td><td id=3D"met">127:6:1=
+4:4:31:38</td></tr>
+    <tr><td class=3D"label">Distance from Earth</td><td id=3D"distanceEarth=
+">383,224,915,666.283 mi / 4122.657065 AU</td></tr>
+    <tr><td class=3D"label">Distance from the Sun</td><td id=3D"distanceSun=
+">383,224,915,666.283 mi / 4122.657065 AU</td></tr>
+    <tr><td class=3D"label">Velocity with Respect to the Sun (est.)</td><td=
+>342,770 mph</td></tr>
+    <tr><td class=3D"label">One-Way Light Time</td><td id=3D"lightTime">571=
+:27:09</td></tr>
+  </tbody></table>
+
+ =20
+
+
+</body></html>
+------MultipartBoundary--QarTTwpKaQX8UD9MUZn78yBPaz3VbFfUOA0AyEvixc----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-61d76b15-80a4-4925-b5a7-37daa344d77e@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; background-color: rgb(240, 240, 240)=
+; color: rgb(34, 34, 34); padding: 20px; }
+
+table { width: 100%; max-width: 700px; margin: auto; border-collapse: colla=
+pse; background-color: white; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 10px; =
+}
+
+td, th { padding: 12px 15px; border-bottom: 1px solid rgb(204, 204, 204); }
+
+th { background-color: rgb(238, 238, 238); text-align: left; }
+
+.label { font-weight: bold; }
+------MultipartBoundary--QarTTwpKaQX8UD9MUZn78yBPaz3VbFfUOA0AyEvixc------
